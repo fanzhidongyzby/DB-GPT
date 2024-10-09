@@ -10,7 +10,7 @@ You can refer to the python example file `DB-GPT/examples/rag/graph_rag_example.
 First, you need to install the `dbgpt` library.
 
 ```bash
-pip install "dbgpt[rag]>=0.6.0"
+pip install "dbgpt[graph_rag]>=0.6.0"
 ````
 
 ### Prepare Graph Database
